@@ -1,4 +1,4 @@
-# Angular-UIGrid-Sparkline
+# Angular-UIGrid-Pivot-Sparkline
 
 Live Demo - http://embed.plnkr.co/RGiixrkzOPTc5olzOvi1/
 
